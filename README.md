@@ -7,7 +7,7 @@ This project analyzes the relationship between Bitcoin market sentiment and Hype
 ## Dataset
 
 - Bitcoin Fear & Greed Index
-- Hyperliquid Historical Trader Data
+- Hyperliquid Historical Trader Data (could not add due to file limit exceeding)
 
 ## Tools Used
 
